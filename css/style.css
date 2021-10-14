@@ -58,6 +58,7 @@ img {
     background-color: #8ea1e1;
     margin-top: 40px;
 }
+
 /* Titolo e testo */
 .titolo {
     font-size: 55px;
@@ -182,4 +183,8 @@ section {
     font-size: 23px;
     font-weight: bold;
     text-align: center;
+}
+.waves {
+    display: block;
+    color: #f6f6f6;
 }
